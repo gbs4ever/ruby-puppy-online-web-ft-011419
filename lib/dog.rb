@@ -11,6 +11,7 @@ attr_accessor :name
 
   def self.all
     @@all.each do |dog_name|
+      dog_name
 binding.pry
 
   end
