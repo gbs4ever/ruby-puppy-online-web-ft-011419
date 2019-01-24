@@ -13,8 +13,8 @@ def self.clear_all
 
   def self.all
     @@all.each do |dog_name|
-      dog_name
-binding.pry
+      dog_name.name
+
     end
   end
 
