@@ -13,7 +13,7 @@ attr_accessor :name
     @@all.each do |dog_name|
       dog_name
 binding.pry
-    endlea
+    end
   end
 
 
