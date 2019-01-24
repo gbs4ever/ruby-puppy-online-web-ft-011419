@@ -11,7 +11,7 @@ attr_accessor :name
 
   def self.all
     @@all.each do |dog_name|
-      
+
 
   end
 
